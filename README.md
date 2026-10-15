@@ -55,11 +55,11 @@ DIVIDE(
     SUM('Table3'[OB_Target_BCM]),
     0
 )
+'''
 
-Tools & Technologies Used :
+---
 
-- Business Intelligence: Power BI Desktop
-
-- Data Modeling & Analytics: DAX (Data Analysis Expressions)
-
-- Design & Layout: Custom Dark Theme & Card Visuals
+## 🛠️ Tools & Technologies Used
+- **Business Intelligence:** Power BI Desktop
+- **Data Modeling & Analytics:** DAX (Data Analysis Expressions)
+- **Design & Layout:** Custom Dark Theme & Card Visuals
