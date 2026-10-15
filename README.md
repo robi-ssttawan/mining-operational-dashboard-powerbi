@@ -55,7 +55,7 @@ DIVIDE(
     SUM('Table3'[OB_Target_BCM]),
     0
 )
-'''
+```
 
 ---
 
